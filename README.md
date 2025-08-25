@@ -119,4 +119,4 @@
   </a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thaiho110" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-psi-red.vercel.app?user=thaiho110" alt="GitHub Streak" /></a>
