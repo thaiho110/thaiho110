@@ -120,3 +120,4 @@
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-psi-red.vercel.app?user=thaiho110" alt="GitHub Streak" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=thaiho110a&show_icons=true&theme=gruvbox"><img src="https://github-readme-stats.vercel.app/api?username=thaiho110&show_icons=true&theme=gruvbox" /></a>
