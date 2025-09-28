@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my Capstone **[Infinity Spark Digital Twin](https://github.com/Infinity-Spark/InfinitySparkApp)**
 - 🌱 I’m currently learning **Python, Embedded Systems**
 - 👨‍💻 All of my projects are available at **[https://github.com/thaiho110?tab=repositories](https://github.com/thaiho110?tab=repositories)**
-- 📫 How to reach me **thaiho500@gmail.com**
+- 📫 How to reach me **[email](thaiho500@gmail.com)**, **[my website](https://thaiho-portfolio.vercel.app/)**
 
 ### Connect with me:
 <p align="left">
