@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thai Ho</h1>
 <h3 align="center">A final year student in Software Engineering from Vietnam</h3>
 
-- 🔭 I’m currently working on my Capstone **[Infinity Spark Digital Twin](https://github.com/Infinity-Spark/InfinitySparkApp)**
-- 🌱 I’m currently learning **Python, Embedded Systems**
+- 🔭 I’m currently looking for internship/fresher for **Full Stack Developer/ Front End Developer** positions!
 - 👨‍💻 All of my projects are available at **[https://github.com/thaiho110?tab=repositories](https://github.com/thaiho110?tab=repositories)**
 - 📫 How to reach me **[email](thaiho500@gmail.com)**, **[my website](https://thaiho-portfolio.vercel.app/)**
 
